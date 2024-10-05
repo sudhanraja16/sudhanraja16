@@ -34,6 +34,6 @@ I am passionate about using data to solve real-world problems, especially in Nat
 - **Bachelor of Mathematics** – Bharathiar University, VHNSN College (2016-2019)
 
 ## 🌐 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/sudhanraja-22a386225)
+- [LinkedIn](https://www.linkedin.com/in/sudhanraja-s-22a386225)
 - [GitHub](https://github.com/sudhanraja16)
 - [Kaggle](https://www.kaggle.com/sudhanraja)
