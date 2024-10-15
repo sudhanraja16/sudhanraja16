@@ -4,10 +4,10 @@
 I am passionate about using data to solve real-world problems, especially in Natural Language Processing (NLP) and data automation. With a strong foundation in data science, I have worked on a variety of machine learning models, automated data pipelines, and web scraping projects. I am always eager to learn and take on new challenges.
 
 ## 🌟 About Me
-- 🎓 **Master of Data Science and Business Analysis** from Madurai Kamaraj University.
+- 🎓 **Master of Data Science and Business Analysis** from Rathinam College of arts and Science, Coimbatore.
 - 📊 Experienced in developing and deploying machine learning models with a focus on NLP and data privacy.
 - 💻 Skilled in data scraping, data pipelines, and model fine-tuning.
-- 🚀 Currently working as a **Data Scientist** at Vumonic Datalabs OÜ, Bengaluru.
+- 🚀 Currently working as a **Data Scientist** at Vumonic Datalabs OÜ, Goa.
 - 🌱 I'm constantly learning new data science tools and methodologies to enhance my skill set.
 
 ## 🛠 Technical Skills
