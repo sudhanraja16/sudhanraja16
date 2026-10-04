@@ -1,39 +1,40 @@
-# Hi, I'm Sudhanraja S! 👋  
-### Data Scientist | Machine Learning | NLP | Web Scraping | Data Pipelines
+# Hi, I'm Sudhanraja 👋
 
-I am passionate about using data to solve real-world problems, especially in Natural Language Processing (NLP) and data automation. With a strong foundation in data science, I have worked on a variety of machine learning models, automated data pipelines, and web scraping projects. I am always eager to learn and take on new challenges.
+**Generative AI Tech Lead** · Multi-agent systems · Agentic RAG · LLMOps · Bangalore, India
 
-## 🌟 About Me
-- 🎓 **Master of Data Science and Business Analysis** from Rathinam College of arts and Science, Coimbatore.
-- 📊 Experienced in developing and deploying machine learning models with a focus on NLP and data privacy.
-- 💻 Skilled in data scraping, data pipelines, and model fine-tuning.
-- 🚀 Currently working as a **Data Scientist** at Vumonic Datalabs OÜ, Goa.
-- 🌱 I'm constantly learning new data science tools and methodologies to enhance my skill set.
+I lead a 6-member engineering team at Logesys Solutions, building production GenAI products: a multi-agent analytics platform that turns business data into validated insights, and an agentic RAG platform for education. I stay hands-on in agent architecture, evaluation and LLMOps on AWS and GCP.
 
-## 🛠 Technical Skills
-- **Languages and Frameworks**:  
-  Python (Pandas, Scrapy, BeautifulSoup, Spacy, Stanza, Hugging Face, LLM) | SQL
-- **Development Tools**:  
-  Git, Docker, Jupyter Notebook, Visual Studio Code  
-- **Data Analysis Tools**:  
-  Advanced Excel, Time Series Analysis  
-- **Concepts**:  
-  Machine Learning (Supervised Neural Networks), Natural Language Processing (NLP),Large Launguage Model, Debugging, Data Pipelines, Web Scraping (Scrapy, BeautifulSoup, Regex, XPath)
+## What I work on
 
-## 👷‍♂️ Work Experience
-### Data Scientist - Vumonic Datalabs OÜ, Bengaluru (May 2023 - Present)
-- Developed and fine-tuned machine learning models for **Natural Language Processing (NLP)**, such as a Name Masking Model and an Email Subject Line Classification Model.
-- Worked with **Mistral model** for detecting personal information, sentiment analysis, and keyword extraction.
-- Managed large datasets with **Pandas** for data cleaning and created data pipelines for automated extraction, cleaning, and validation.
-- Implemented web scraping solutions using **Scrapy, BeautifulSoup**, and **regex** to collect and process data for clients.
-- Utilized **Spacy** and **Stanza** for advanced data privacy solutions, including masking sensitive information.
+- **Multi-agent systems:** planner, analysis, deep-dive and summary agents built with LangGraph and run on a schedule on AWS
+- **Conversational analytics:** text-to-SQL and text-to-DAX agents with self-correction, guardrails and live streaming
+- **Agentic RAG:** vision-LLM document parsing, reranked retrieval, and evaluation of both answers and citations
+- **LLMOps:** OpenTelemetry tracing, LLM cost and token tracking, Langfuse, SLOs
+- **Portable agent platforms:** moved agents from Google ADK on Vertex AI to LangGraph services that can use any model provider
 
+## Tech stack
 
-## 📚 Education
-- **Master of Data Science and Business Analysis** – Madurai Kamaraj University (2021-2023)
-- **Bachelor of Mathematics** – Bharathiar University, VHNSN College (2016-2019)
+**GenAI:** LangGraph · Google ADK · LangChain · MCP · Vertex AI Agent Engine  
+**LLMs:** Gemini · Claude · GPT-4o · Llama 4 · Amazon Bedrock · OpenRouter  
+**Retrieval:** S3 Vectors · Qdrant · ChromaDB · FAISS  
+**Cloud and DevOps:** AWS (Lambda, API Gateway, ECR, EventBridge) · GCP (Vertex AI, Cloud Run, BigQuery) · Docker · GitHub Actions  
+**Languages:** Python · SQL · TypeScript
 
-## 🌐 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/sudhanraja-s-22a386225)
-- [GitHub](https://github.com/sudhanraja16)
-- [Kaggle](https://www.kaggle.com/sudhanraja)
+## Experience
+
+- **Tech Lead – Products**, Logesys Solutions · Apr 2026 – present
+- **Project Consultant – Python Gen AI**, Logesys Solutions · Feb 2026 – Mar 2026
+- **Data Scientist (Generative AI)**, Vumonic Datalabs · Jun 2023 – Jan 2026
+
+## Education
+
+- **Master of Data Science & Business Analysis**, Rathinam College of Arts and Science (Bharathiar University), Coimbatore · 2021 – 2023
+- **Bachelor of Mathematics**, VHNSN College (Madurai Kamaraj University), Virudhunagar · 2016 – 2019
+
+## Recognition
+
+- Crisis Manager Award and Helping Hand Award, Logesys Awards 2026
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/sudhanrajas/)
